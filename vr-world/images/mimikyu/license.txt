@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mimikyu(Low poly)
+* source:	https://sketchfab.com/3d-models/mimikyulow-poly-2006592918744d61a7739182d86f662c
+* author:	kyuukonneko (https://sketchfab.com/kyuukonneko)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mimikyu(Low poly)" (https://sketchfab.com/3d-models/mimikyulow-poly-2006592918744d61a7739182d86f662c) by kyuukonneko (https://sketchfab.com/kyuukonneko) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

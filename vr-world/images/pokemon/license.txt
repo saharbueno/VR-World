@@ -1,0 +1,11 @@
+Model Information:
+* title:	Minccino (Pokemon)
+* source:	https://sketchfab.com/3d-models/minccino-pokemon-4955d6d662b64915947c862594c30660
+* author:	Charlotte (https://sketchfab.com/charlottetan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Minccino (Pokemon)" (https://sketchfab.com/3d-models/minccino-pokemon-4955d6d662b64915947c862594c30660) by Charlotte (https://sketchfab.com/charlottetan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
